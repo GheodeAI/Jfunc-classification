@@ -1,0 +1,8 @@
+data/
+*.pdf
+*.eps
+*.png
+*.nc
+*.npy
+*.h5
+*.zip
